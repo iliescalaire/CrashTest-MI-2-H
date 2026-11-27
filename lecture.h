@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-/* Une ligne du CSV = une victime d'un accident */
+
 typedef struct {
     uint16_t annee;
     uint32_t id_collision;
